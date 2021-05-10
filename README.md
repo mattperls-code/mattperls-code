@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hi, I'm mattperls-code ( you can call me Matt )
 
-<!--
-**mattperls-code/mattperls-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+[Instagram](https://www.instagram.com/mattperls.code/)
+[Gmail](mailto:mattperls.code@gmail.com)
+[Github](https://github.com/mattperls-code) You're already here btw
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## What I Know:
+
+<br/>
+
+HTML / CSS     ~  Definetly
+JS / React     ~  Those Too
+React Native   ~  Yup
+C++            ~  Sorta
+Java           ~  Maybe?
+
+<br/>
+
+## What I Do:
+
+<br/>
+
+Websites       ~  For Sure
+Apps           ~  Yes
+Games          ~  Every Now And Then
+Misc           ~  Ray Tracer, Libraries, Language
+
+<br/>
+
+## What I've Made:
+
+<br/>
+
+(Website)      ~  My Math Tutor
+(Library)      ~  shadow-rn
+(Language)     ~  Platinum
+(Ray Tracer)   ~  TraceVecJS
