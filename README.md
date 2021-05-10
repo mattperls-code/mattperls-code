@@ -1,41 +1,28 @@
-# Hi, I'm mattperls-code ( you can call me Matt )
-
-<br/>
+# Hi, I'm mattperls-code
+( you can call me Matt )
 
  - [Instagram](https://www.instagram.com/mattperls.code/)
  - [Gmail](mailto:mattperls.code@gmail.com)
  - [Github](https://github.com/mattperls-code) You're already here btw
 
-<br/>
-
 ## What I Know:
 
-<br/>
-
- - HTML / CSS     ~  Definetly
- - JS / React     ~  Those Too
- - React Native   ~  Yup
- - C++            ~  Sorta
- - Java           ~  Maybe?
-
-<br/>
+ - HTML / CSS ~ Definetly
+ - JS / React ~ Those Too
+ - React Native ~ Yup
+ - C++ ~ Sorta
+ - Java ~ Maybe?
 
 ## What I Do:
 
-<br/>
-
- - Websites       ~  For Sure
- - Apps           ~  Yes
- - Games          ~  Every Now And Then
- - Misc           ~  Ray Tracer, Libraries, Language, etc.
-
-<br/>
+ - Websites ~ For Sure
+ - Apps ~ Yes
+ - Games ~ Every Now And Then
+ - Misc ~ Ray Tracer, Libraries, Language, etc.
 
 ## What I've Made:
 
-<br/>
-
- - (Website)      ~  My Math Tutor
- - (Library)      ~  shadow-rn
- - (Language)     ~  Platinum
- - (Ray Tracer)   ~  TraceVecJS
+ - (Website) ~ My Math Tutor
+ - (Library) ~ shadow-rn
+ - (Language) ~ Platinum
+ - (Ray Tracer) ~ TraceVecJS
