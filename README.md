@@ -18,11 +18,15 @@
  - Websites ~ For Sure
  - Apps ~ Yes
  - Games ~ Every Now And Then
- - Misc ~ Ray Tracer, Libraries, Language, etc.
+ - Misc (Graphics, Libraries, Languages, etc.) ~ Yup
 
 ## What I've Made:
 
  - (Website) ~ My Math Tutor
  - (Library) ~ shadow-rn
- - (Language) ~ Platinum
+ - (Library) ~ react-native-vault
+
+## What I'm Working On:
+
+ - (Language) ~ Procedural Platinum
  - (Ray Tracer) ~ TraceVecJS
