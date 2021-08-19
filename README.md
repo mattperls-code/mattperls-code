@@ -28,5 +28,6 @@
 
 ## What I'm Working On:
 
+ - 2x2 Rubik's Cube Solver
  - (Language) ~ Procedural Platinum
  - (Ray Tracer) ~ TraceVecJS
