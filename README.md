@@ -3,7 +3,7 @@
 
 ## Some Info About Me:
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattperls-code)
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattperls-code)](https://github.com/mattperls-code)
 
  - [Website](https://mattperls-code.vercel.app)
  - [Instagram](https://www.instagram.com/mattperls.code/)
