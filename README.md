@@ -1,5 +1,4 @@
-# Hi, I'm mattperls-code
-( you can call me Matt )
+# Hi, I'm Matt
 
 ## Some Info About Me:
 
@@ -8,22 +7,27 @@
  - [Website](https://mattperls-code.vercel.app)
  - [Instagram](https://www.instagram.com/mattperls.code/)
  - [Gmail](mailto:mattperls.code@gmail.com)
- - [Github](https://github.com/mattperls-code) You're already here btw
+ - [Github](https://github.com/mattperls-code)
 
 ## What I Know:
 
- - React Native ~ Yup
- - HTML / CSS ~ Definetly
- - JS / React ~ Those Too
- - C++ ~ Yuh
- - Java ~ More Or Less
+ - HTML / CSS / SCSS
+ - JS / React / React Native
+ - Java
+ - C++
 
-## What I Make:
+## What I'm Good At:
 
- - Apps ~ Yes
- - Websites ~ For Sure
- - Games ~ Every Now And Then
- - Misc (Graphics, Libraries, Language Dev, etc.) ~ Yup
+ - Frontend Web Development
+ - Frontend App Development
+ - Robotics
+
+## What I Dabble In:
+
+ - Programming Language Development
+ - From Scratch 3D Graphics
+ - Physics Simulations and Demos
+ - Library Creation
 
 ## What I've Made:
 
@@ -37,4 +41,4 @@
 ## Some Ongoing Projects:
 
  - (Language) ~ Platinum
- - some secret apps in the works
+ - some other apps in the works
