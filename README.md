@@ -4,7 +4,6 @@
 
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattperls-code)](https://github.com/mattperls-code)
 
- - [Website](https://mattperls-code.vercel.app)
  - [Instagram](https://www.instagram.com/mattperls.code/)
  - [Gmail](mailto:mattperls.code@gmail.com)
  - [Github](https://github.com/mattperls-code)
