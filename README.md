@@ -3,6 +3,7 @@
  * ## About Me
 
     My name is Matthew Perlman, and I'm a rising highschool sophomore.
+
     I have been programming for 5 years and am currently the assistant programming lead on my schools robotics team.
 
 <br />
@@ -19,7 +20,9 @@
 
  * ## **Web Development**
 
-    I have been building websites for years and am fluent in **HTML**, **CSS**, **JavaScript**, and **React**. I also know **NodeJS**, but have not had the opportunity to implement this very much in practice.
+    I have been building websites for years and am fluent in **HTML**, **CSS**, **JavaScript**, and **React**.
+    
+    I also know **NodeJS**, but have not had the opportunity to implement this very much in practice.
 
      * Ctrl+Shift 2022 Finalist Website: [Brotherly Love](https://brotherly-love.vercel.app/)
      * Ctrl+Shift 2021 Finalist Website: [My Math Tutor](https://mattperls-code.github.io/my-math-tutor/)
@@ -29,7 +32,9 @@
 
  * ## **Native Development**
 
-    I am fluent in **React Native** and have published a few apps on the **IOS App Store**. The code for all of my published apps can be found [here](https://github.com/mattperls-code-apps).
+    I am fluent in **React Native** and have published a few apps on the **IOS App Store**.
+    
+    The code for all of my published apps can be found [here](https://github.com/mattperls-code-apps).
 
      * [Quick Dodge](https://apps.apple.com/us/app/quick-dodge/id1517218313)
      * [Quote It](https://apps.apple.com/us/app/quote-it/id1628678287)
@@ -44,7 +49,9 @@
 
  * ## **Misc. Software**
 
-    I enjoy experimenting in various branches of software like graphics, language development, and robotics. My skills for projects like these include **linear algebra**, **optics**, **C++**, and **Java**.
+    I enjoy experimenting in various branches of software like graphics, language development, and robotics.
+    
+    My skills for projects like these include **linear algebra**, **optics**, **C++**, and **Java**.
 
      * [Simple Ray Tracer](https://github.com/mattperls-code/oneLineRayTracer)
      * (Still In Development) Programming Language Written In C++
