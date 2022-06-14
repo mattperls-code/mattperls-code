@@ -1,43 +1,51 @@
-# Hi, I'm Matt
+# mattperls-code
 
-## Some Info About Me:
+ * ## About Me
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattperls-code)](https://github.com/mattperls-code)
+    My name is Matthew Perlman, and I'm a rising highschool sophomore.
+    I have been programming for 5 years and am currently the assistant programming lead on my schools robotics team.
 
- - [Instagram](https://www.instagram.com/mattperls.code/)
- - [Gmail](mailto:mattperls.code@gmail.com)
- - [Github](https://github.com/mattperls-code)
+<br />
 
-## What I Know:
+ * ## Contact Me
 
- - HTML / CSS / SCSS
- - JS / React / React Native
- - Java
- - C++
+     * [Instagram](https://www.instagram.com/mattperls.code/)
+     * [Gmail](mailto:mattperls.code@gmail.com)
+     * [Github](https://github.com/mattperls-code)
 
-## What I'm Good At:
+<br />
 
- - Frontend Web Development
- - Frontend App Development
- - Robotics
+# My Experience
 
-## What I Dabble In:
+ * ## **Web Development**
 
- - Programming Language Development
- - From Scratch 3D Graphics
- - Physics Simulations and Demos
- - Library Creation
+    I have been building websites for years and am fluent in **HTML**, **CSS**, **JavaScript**, and **React**. I also know **NodeJS**, but have not had the opportunity to implement this very much in practice.
 
-## What I've Made:
+     * Ctrl+Shift 2022 Finalist Website: [Brotherly Love](https://brotherly-love.vercel.app/)
+     * Ctrl+Shift 2021 Finalist Website: [My Math Tutor](https://mattperls-code.github.io/my-math-tutor/)
+     * Library Documentation Website: [React Native Vault Documentation](https://mattperls-code.github.io/react-native-vault/)
 
- - (App) ~ [Quick Dodge!](https://apps.apple.com/us/app/quick-dodge/id1517218313)
- - (Chrome Extension) ~ [Students In Style](https://chrome.google.com/webstore/detail/students-in-style/bibpifjmeokaediicippdkjmdehcjfih)
- - (Website) ~ [My Math Tutor](https://mattperls-code.github.io/my-math-tutor/)
- - (Library) ~ [shadows-rn](https://www.npmjs.com/package/shadows-rn)
- - (Library) ~ [react-native-vault](https://www.npmjs.com/package/react-native-vault)
- - (Graphics) ~ [One Line Ray Tracer](https://github.com/mattperls-code/oneLineRayTracer/blob/master/src/prod/index.js)
+<br />
 
-## Some Ongoing Projects:
+ * ## **Native Development**
 
- - (Language) ~ Platinum
- - some other apps in the works
+    I am fluent in **React Native** and have published a few apps on the **IOS App Store**. The code for all of my published apps can be found [here](https://github.com/mattperls-code-apps).
+
+     * [Quick Dodge](https://apps.apple.com/us/app/quick-dodge/id1517218313)
+     * [Quote It](https://apps.apple.com/us/app/quote-it/id1628678287)
+     * [Should I](https://mattperls-code-apps.github.io/should-i-app-support/)
+
+    Additionally, I have built and released **libraries** for React Native on **npm**.
+    
+     * [React Native Vault](https://www.npmjs.com/package/react-native-vault)
+     * [ShadowsRN](https://www.npmjs.com/package/shadows-rn)
+
+<br />
+
+ * ## **Misc. Software**
+
+    I enjoy experimenting in various branches of software like graphics, language development, and robotics. My skills for projects like these include **linear algebra**, **optics**, **C++**, and **Java**.
+
+     * [Simple Ray Tracer](https://github.com/mattperls-code/oneLineRayTracer)
+     * (Still In Development) Programming Language Written In C++
+     * [FRC Robot](https://github.com/RoboLancers/FRC_2022_MainSeason)
