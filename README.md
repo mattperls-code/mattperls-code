@@ -2,9 +2,9 @@
 
  * ## About Me
 
-    My name is Matthew Perlman, and I'm a rising highschool sophomore.
+    My name is Matthew Perlman, and I'm a high school junior.
 
-    I have been programming for 5 years and am currently the assistant programming lead on my schools robotics team.
+    I have been programming for 5 years and am currently the assistant programming lead on my school's robotics team.
 
 <br />
 
