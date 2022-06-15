@@ -36,9 +36,9 @@
     
     The code for all of my published apps can be found [here](https://github.com/mattperls-code-apps).
 
-     * [Quick Dodge](https://apps.apple.com/us/app/quick-dodge/id1517218313)
-     * [Quote It](https://apps.apple.com/us/app/quote-it/id1628678287)
-     * [Should I](https://mattperls-code-apps.github.io/should-i-app-support/)
+     * [Quick Dodge!](https://apps.apple.com/us/app/quick-dodge/id1517218313)
+     * [Quote-It](https://apps.apple.com/us/app/quote-it/id1628678287)
+     * [Should I Do It?](https://apps.apple.com/us/app/should-i-do-it/id1628436486)
 
     Additionally, I have built and released **libraries** for React Native on **npm**.
     
