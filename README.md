@@ -6,7 +6,7 @@
 
     I have been programming for 5 years and am currently the assistant programming lead on my school's robotics team.
 
-<br >
+<br />
 
  * ## Contact Me
 
@@ -14,7 +14,7 @@
      * [Gmail](mailto:mattperls.code@gmail.com)
      * [Github](https://github.com/mattperls-code)
 
-<br >
+<br />
 
 # My Experience
 
@@ -28,7 +28,7 @@
      * Ctrl+Shift 2021 Finalist Website: [My Math Tutor](https://mattperls-code.github.io/my-math-tutor/)
      * Library Documentation Website: [React Native Vault Documentation](https://mattperls-code.github.io/react-native-vault/)
 
-<br >
+<br />
 
  * ## **Native Development**
 
@@ -45,7 +45,7 @@
      * [React Native Vault](https://www.npmjs.com/package/react-native-vault)
      * [ShadowsRN](https://www.npmjs.com/package/shadows-rn)
 
-<br >
+<br />
 
  * ## **Misc. Software**
 
