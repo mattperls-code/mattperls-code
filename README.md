@@ -54,5 +54,5 @@
     My skills for projects like these include **linear algebra**, **optics**, **C++**, and **Java**.
 
      * [Simple Ray Tracer](https://github.com/mattperls-code/oneLineRayTracer)
-     * (Still In Development) Programming Language Written In C++
+     * [Programming Language](https://github.com/mattperls-code/platinum)
      * [FRC Robot](https://github.com/RoboLancers/FRC_2022_MainSeason)
