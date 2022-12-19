@@ -2,17 +2,7 @@
 
  * ## About Me
 
-    My name is Matthew Perlman, and I'm a high school junior.
-
-    I have been programming for 5 years and am currently the assistant programming lead on my school's robotics team.
-
-<br />
-
- * ## Contact Me
-
-     * [Instagram](https://www.instagram.com/mattperls.code/)
-     * [Gmail](mailto:mattperls.code@gmail.com)
-     * [Github](https://github.com/mattperls-code)
+    My name is Matthew Perlman, and I'm a high school junior. I program in **JavaScript**, **C++**, and **Java**. I love building 3D and 2D graphics programs, physical simulations, and am interested in low level language design. I also program mobile iOS apps, fullstack websites, robots, and whatever else sparks my interest.
 
 <br />
 
@@ -20,7 +10,7 @@
 
  * ## **Native Development**
 
-    I am fluent in **React Native** and have published a few apps on the **IOS App Store**.
+    I am fluent with **React Native** and have published a few apps on the **IOS App Store**.
     
     The code for all of my published apps can be found [here](https://github.com/mattperls-code-apps).
 
